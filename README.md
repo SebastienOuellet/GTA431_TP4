@@ -2,7 +2,7 @@
 
 # GTA431-TP4 #
 
-## TP #4 - Sébastien Ouellet<br />-Jessy Boucher<br />-Jimmy Eloquin
+Sébastien Ouellet<br />-Jessy Boucher<br />-Jimmy Eloquin
 
 Projet d’intelligence d’affaires à partir des données ouvertes de la Ville de Montréal
 Présenter pour Charles Gouin Vallerand
