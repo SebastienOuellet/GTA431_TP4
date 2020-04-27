@@ -1,16 +1,15 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100px"/> 
 
 # GTA431-TP4 #
+Projet d’intelligence d’affaires à partir des données ouvertes de la Ville de Montréal<br />
+Présenter pour Charles Gouin Vallerand
 
 Sébastien Ouellet<br />Jessy Boucher<br />Jimmy Eloquin
 
-Projet d’intelligence d’affaires à partir des données ouvertes de la Ville de Montréal
-Présenter pour Charles Gouin Vallerand
-
-# Décrire notre projet #
+# Notre projet #
 Émettre un rapport statistique sur les tendances en matière d’accident.​
 
-# Opportunité d’affaire:#​
+# Opportunité d’affaire​
 SPVM​<br />
 Prévention​<br />
 Réduction du nombre d’accidents​<br />
@@ -39,7 +38,7 @@ Numpy
 6- Exécution du code
 
 # Explication des autres fichiers que Python #
-accidents_2012_2018.csv : Jeux de données
+accidents_2012_2018.csv : Jeux de données<br />
 Main.html : Fichier pour visualiser en version web le code compiler. <br />
 genre.csv : Fichier pour permettre d'avoir le titre du type de genre d'accident Rapports-accident-documentation.pdf<br />
 Rapports-accident-documentation.pdf :Description du jeu de données
