@@ -38,5 +38,9 @@ Numpy
 
 6- Exécution du code
 
+# Explication des autres fichiers que Python #
 
+Main.html : Fichier pour visualiser en version web le code compiler. <br />
+genre.csv : Fichier pour permettre d'avoir le titre du type de genre d'accident Rapports-accident-documentation.pdf<br />
+Rapports-accident-documentation.pdf :Description du jeu de données
 
