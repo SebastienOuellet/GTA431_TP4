@@ -2,19 +2,27 @@
 
 # GTA431-TP4 #
 
-## TP #4 - Sébastien Ouellet-Jessy Boucher-Jimmy Eloquin
+Sébastien Ouellet<br />Jessy Boucher<br />Jimmy Eloquin
 
 Projet d’intelligence d’affaires à partir des données ouvertes de la Ville de Montréal
 Présenter pour Charles Gouin Vallerand
 
 # Décrire notre projet #
-Blablabla
+Émettre un rapport statistique sur les tendances en matière d’accident.​
+
+# Opportunité d’affaire:#​
+SPVM​<br />
+Prévention​<br />
+Réduction du nombre d’accidents​<br />
+Compagnie d’assurances​<br />
+Calcul des primes d’assurances<br />
 
 # Technologies #
-Python 3.7
-Anaconda
-Jupyter Notebook
-Pandas
+Python 3.7<br />
+Anaconda<br />
+Jupyter Notebook<br />
+Pandas<br />
+Numpy
 
 # Procédure d'execution #
 
@@ -26,5 +34,13 @@ Pandas
 
 4- Installation Package Pandas
 
+5- Démarrer en terminal Jupyter : Lancer la commande jupyter notebook
 
+6- Exécution du code
+
+# Explication des autres fichiers que Python #
+
+Main.html : Fichier pour visualiser en version web le code compiler. <br />
+genre.csv : Fichier pour permettre d'avoir le titre du type de genre d'accident Rapports-accident-documentation.pdf<br />
+Rapports-accident-documentation.pdf :Description du jeu de données
 
